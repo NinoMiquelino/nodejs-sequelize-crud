@@ -80,13 +80,13 @@ module.exports = {
 
 ​Abra o terminal na pasta raiz do projeto (/nodejs-sequelize-crud) e execute:
 
-# 1. Inicializa o projeto
+1. Inicializa o projeto
 npm init -y
 
-# 2. Instala as dependências de produção (Express, Sequelize, Drivers do PG)
+2. Instala as dependências de produção (Express, Sequelize, Drivers do PG)
 npm install express sequelize pg pg-hstore
 
-# 3. Instala o nodemon para desenvolvimento
+3. Instala o nodemon para desenvolvimento
 npm install -D nodemon
 
 ---
